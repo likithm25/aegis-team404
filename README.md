@@ -159,6 +159,13 @@ npm start
 * NFT and token support
 
 ---
+## 👨‍💻 My Contribution
+
+- Contributed to the development and implementation of the Aegis blockchain-based system.
+- Worked on the smart contract and blockchain integration.
+- Contributed to the cryptographic commit–reveal mechanism for secure prediction submission.
+- Worked on testing, debugging, and integration of project components.
+- Collaborated with the team on the overall architecture and hackathon implementation.
 
 
 ### 😎 Aegis Core Team
